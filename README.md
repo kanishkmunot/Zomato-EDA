@@ -1,6 +1,6 @@
 # Zomato Data Analysis Project
 
-![Zomato Banner](images/zomato-banner.jpeg)
+![Zomato Banner]([images/zomato-banner.jpeg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fsearch%2Fprojects%3Fsearch%3DZOMATO%2BAD%2BCAMPAIGN&psig=AOvVaw0Dbwz9ASjVrJHFChL2aIAB&ust=1695835740601000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDdtsrmyIEDFQAAAAAdAAAAABAI))
 
 ## Overview
 
