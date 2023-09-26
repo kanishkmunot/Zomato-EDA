@@ -1,6 +1,6 @@
 # Zomato Data Analysis Project
 
-![Zomato Banner](https://example.com/zomato-banner.jpeg)
+![Zomato Banner](images/zomato-banner.jpeg)
 
 ## Overview
 
